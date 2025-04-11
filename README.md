@@ -1,6 +1,6 @@
 # Preparatory Class – Scientific Projects
 
-Bienvenue sur ce dépôt qui regroupe plusieurs projets réalisés lors de ma première année de classe préparatoire scientifique en France (filière MP/PCSI). Ces projets m'ont permis d'approfondir mes compétences en **mathématiques appliquées**, **informatique** (Python), **simulation numérique**, et **traitement d’images**.
+Bienvenue sur ce dépôt qui regroupe plusieurs projets réalisés lors de ma dernière année de classe préparatoire scientifique. 
 
 ## 📁 Contenu du dépôt
 
@@ -41,13 +41,3 @@ Bienvenue sur ce dépôt qui regroupe plusieurs projets réalisés lors de ma pr
 ### 📦 `EPREUVES ORALES - MATHS.zip` & `TIPE.zip`
 - **Contenu :** Documents annexes pour préparation d'épreuves orales et TIPE.
 - **Format :** Fichiers compressés (non analysés ici).
-
-## 🛠️ Technologies utilisées
-- **Langages :** Python 3
-- **Librairies :** NumPy, Matplotlib, PIL, Pylab, Math
-- **Systèmes :** Linux / Windows
-
-## 📚 Objectifs pédagogiques
-- Renforcer la compréhension des modèles physiques et biologiques par la simulation.
-- Développer une rigueur algorithmique et une capacité à modéliser.
-- Introduire des notions fondamentales en traitement du signal et des images.
