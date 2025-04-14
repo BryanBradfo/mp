@@ -1,43 +1,43 @@
-# Preparatory Class – Scientific Projects
+# Preparatory class – Scientific projects
 
-Bienvenue sur ce dépôt qui regroupe plusieurs projets réalisés lors de ma dernière année de classe préparatoire scientifique. 
+Welcome to this repository, which gathers several projects carried out during my final year of preparatory scientific classes.
 
-## 📁 Contenu du dépôt
+## 📁 Repository contents
 
 ### 🔢 `Euler_general.py` & `python.py`
-- **Sujet :** Méthode d’Euler pour la résolution d’équations différentielles.
-- **Application :** Modélisation épidémiologique (modèle SIR).
-- **Technos :** NumPy, Pylab.
-- **Objectif :** Visualiser l’évolution d’une population face à une épidémie.
+- **Topic:** Euler's method for solving differential equations.  
+- **Application:** Epidemiological modeling (SIR model).  
+- **Technologies:** NumPy, Pylab.  
+- **Objective:** Visualize the evolution of a population during an epidemic.
 
 ### 🎢 `Pendulesimple.py`
-- **Sujet :** Simulation d’un pendule simple avec et sans approximation linéaire.
-- **Objectif :** Étude énergétique, comparaison des comportements harmoniques et non-linéaires.
-- **Visualisation :** courbes d’énergie et de déplacement.
+- **Topic:** Simulation of a simple pendulum with and without linear approximation.  
+- **Objective:** Energy analysis, comparison between harmonic and non-linear behaviors.  
+- **Visualization:** Energy and displacement curves.
 
 ### 🖼️ `images.py`
-- **Sujet :** Traitement d’image avec PIL et NumPy.
-- **Fonctionnalités :**
-  - Demi-tour d’image.
-  - Négatif.
-  - Passage en niveaux de gris.
-  - Convolution (flou, contraste...).
+- **Topic:** Image processing using PIL and NumPy.  
+- **Features:**  
+  - Image flip.  
+  - Negative filter.  
+  - Grayscale conversion.  
+  - Convolution (blur, contrast...).
 
 ### 🔐 `crypto.py`
-- **Sujet :** Premiers tests de chiffrement / manipulations simples de chaînes de caractères.
-- **Remarque :** Essais exploratoires (Python Shell).
+- **Topic:** Initial experiments with encryption / basic string manipulation.  
+- **Note:** Exploratory tests (Python Shell).
 
 ### 🔁 `inverser_transposition.py`
-- **Sujet :** Inverser une permutation (transposition).
-- **Objectif :** Développement de fonctions utilitaires sur les tableaux.
+- **Topic:** Reversing a permutation (transposition).  
+- **Objective:** Development of utility functions for arrays.
 
 ### 📐 `IMT_Calcul.py`
-- **Sujet :** Algorithmes mathématiques :
-  - Méthode de Newton pour résoudre une équation.
-  - Moyenne de points.
-  - Fonction d’organisation de listes.
-- **Objectif :** Approfondissement en algorithmique.
+- **Topic:** Mathematical algorithms:  
+  - Newton’s method for solving equations.  
+  - Point averaging.  
+  - List organization functions.  
+- **Objective:** Further exploration of algorithmics.
 
 ### 📦 `EPREUVES ORALES - MATHS.zip` & `TIPE.zip`
-- **Contenu :** Documents annexes pour préparation d'épreuves orales et TIPE.
-- **Format :** Fichiers compressés (non analysés ici).
+- **Content:** Supporting documents for oral exam and TIPE preparation.  
+- **Format:** Compressed files (not analyzed here).
