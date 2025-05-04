@@ -1,4 +1,4 @@
-# Preparatory class – Scientific projects 🇫🇷👨‍🏫
+# Preparatory class to French top school of engineers – Scientific projects 🇫🇷👨‍🏫
 
 Welcome to this repository, which gathers several projects carried out during my final year of preparatory scientific classes.
 
